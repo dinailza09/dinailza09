@@ -30,6 +30,9 @@
 
 <h4 align="center">☕Aficionada por um bom café enquanto codifico.</h4>
 
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+
 
 
 
