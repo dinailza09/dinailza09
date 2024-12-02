@@ -7,7 +7,7 @@
     Always striving to overcome challenges and create amazing solutions.
   </p>
   <p style="font-size: 16px;">
-    ☕ Nothing like coffee and chimarrão to accompany my coding journey! 💻 
+    ☕ Nothing like coffee and chimarrão to accompany my coding journey! 💻 🧉
   </p>
 </div>
 
